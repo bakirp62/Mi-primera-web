@@ -1,0 +1,35 @@
+
+h1 { 
+    color:rgb(3, 3, 5)
+}
+body{
+
+    background-color:rgb(56, 1, 1);
+ 
+    border: 2px dashed red;
+}
+
+.img{
+    height: 400px;
+    width: 400px;
+}
+
+nav ul{
+    background-color: #853e3e;
+    width: 97%;
+    list-style-type: none;
+    text-align: center;
+}
+nav li{
+    display:inline-flex;
+
+}
+nav a{
+    text-decoration: none;
+    color: rgb(15, 2, 2);
+    padding:10px;
+    width: 150px;
+}
+nav li:hover{
+    background-color:rgb(82, 24, 24);
+}
